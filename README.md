@@ -1,11 +1,11 @@
-# Psych 60, Fall 2018
-This repository will host resources and tutorials for Psych 60. They will be updated throughout the term available on the class server.
+# Psych 60, Winter 2019
+This repository will host resources and tutorials for Psych 60. Please bookmark this site as it will be updated with resources throughout the term.
 
 *Instructor: Jeremy Huckins*
 
-*Teaching assistant: Kirsten Ziman*
+*Teaching assistant: Lucy Owen*
 
-No programming experience is expected for this course, although some will be taught throughout the term and you will be expected to complete an independent project which may involve some coding.
+No programming experience is expected for this course, although some will be taught throughout the term and you will be expected to complete an independent project which will involve minimal coding.
 
 # Accessing Dartfs
 Data storage: We will host most of our data and tutorials for the class on dartfs. You have a home directory The instructions below are for accessing your home space. If you are enrolled in the class you *should* be authorized to access the Psych 60 space. Please let us know if that is not the case.
@@ -26,7 +26,7 @@ You also have personal space which would be accessed through the above syntax /d
 
 
 ## Prelab
-[ Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/) Please read and work through the main page and sections 1-5,7,14. Please see the instructor or TA if you need help getting to or installing a terminal on your laptop. If you don't have a laptop you can bring to class please let Jeremy know.
+[ Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/) Please read and work through the main page and sections 1-5,7,14. Please see the instructor or TA if you need help getting to or installing a terminal on your laptop. If you don't have a laptop you can bring to class please let Professor Huckins know.
 
 
 # Lab 1
@@ -36,13 +36,23 @@ You also have personal space which would be accessed through the above syntax /d
 
 [Huettel Review](http://sites.sinauer.com/fmri3e/)
 
-# Brain anatomy refreshers
+# Brain anatomy resources and refreshers
+
+[Yale MNI-Talairach with Brodmann Areas](http://sprout022.sprout.yale.edu/mni2tal/mni2tal.html)
 
 [Julian Casper's anatomy guidelines](https://www.humanbrainmapping.org/files/2017/ED%20Courses/Course%20Materials/Anatomy_Caspers_Julian.pdf)
 
 [3d Brain](https://www.brainfacts.org/3D-Brain#intro=false&focus=Brain-cerebral_hemisphere-right)
 
 Some of these resources are from [here](https://pbeukema.github.io/labhacks/#fmri)
+
+# Assorted
+
+[Neurosynth - automated meta-analyses and resting-state connectivity maps](neurosynth.org)
+
+[Human Brain Transcriptome -  gene expression across development](http://hbatlas.org/pages/hbtd)
+
+[Neurostars - have a problem? Someone here can probably answer it...](https://neurostars.org)
 
 # Links to videos to help understand concepts of fMRI
 
@@ -74,14 +84,12 @@ Some of these resources are from [here](https://pbeukema.github.io/labhacks/#fmr
 [Method 1: Graphical walk-through](https://imgur.com/a/3mFsX)
 
 [Method 2: A docker container for 3D printing a brain](https://github.com/danjonpeterson/brain_printer)
-As a note, Jin mentioned that before printing you may want to merge the hemispheres in MeshLab.
+As a note, Jin mentioned that before printing you may want to merge the hemispheres in MeshLab. Please let one of us know if you would like help converting FreeSurfer output to .stl files.
 
 # Programming resources
 [Linux](https://ryanstutorials.net/linuxtutorial/)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-[Git tutorial - version control for code](https://swcarpentry.github.io/git-novice/)
 
 [Whilrwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 
@@ -103,10 +111,17 @@ As a note, Jin mentioned that before printing you may want to merge the hemisphe
 [C-PAC](https://fcp-indi.github.io/docs/user/index.html)
 
 # Reproducible neuroscience links and tools
+
+[Git - version control for code](https://swcarpentry.github.io/git-novice/)
+
 [Datalad - download and manage data](https://www.datalad.org)
 
-[Docker - run applications from a container, usually locally](https://www.docker.com)
+[Docker - run applications in a reproducible manner from a container, usually locally](https://www.docker.com)
 
 [Singularity - containers that can be run on servers for large scale implementation](https://www.sylabs.io)
 
 [Singularity tutorial](https://github.com/NIH-HPC/Singularity-Tutorial)
+
+[Singularity tutorial for Dartmouth's Discovery Cluster written by Eshin and Matteo](https://github.com/mtnhuck/IntroToSingularity)
+
+[fmriprep singularity installation](https://fmriprep.readthedocs.io/en/stable/installation.html#singularity-container)

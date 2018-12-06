@@ -35,5 +35,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
+#iPython generated files and folders
+./.ipynb_checkpoints
 .ipynb_checkpoints

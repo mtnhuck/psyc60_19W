@@ -3,7 +3,7 @@ This repository will host resources and tutorials for Psych 60. Please bookmark 
 
 *Instructor: Jeremy Huckins*
 
-*Teaching assistant: Lucy Owen*
+*Teaching assistant: Sarah Herald*
 
 No programming experience is expected for this course, although some will be taught throughout the term and you will be expected to complete an independent project which will involve minimal coding.
 

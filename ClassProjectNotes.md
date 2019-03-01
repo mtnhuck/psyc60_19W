@@ -1,6 +1,6 @@
 # Extend session for 5 days
 
-(you will need to redo this 5 days later)
+(you will need to redo this 5 days from now)
 
 1. Log into jupyter.dartmouth.edu
 2. Go through the typical steps of Starting/Stopping/Logging in/out to get it working

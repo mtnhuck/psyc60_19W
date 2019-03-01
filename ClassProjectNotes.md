@@ -29,3 +29,12 @@ From your computer connect to the Psych 60 share link that we setup. If you are 
 7. Change the conditions going forward, ie Dead, Alive to Scary, NotScary etc. There are multiple places you will have to do this.
 8. If you are doing a 1-sample t-test you will need to change the subjects selected to the ones that you want. Please go through the QA files here and identify which subjects you want to include based on motion: https://jupyter.dartmouth.edu/user/d28603y/tree/Psych60/data/1001_Psych6019W/derivatives/fmriprep and clicking on each of the .html files
 9. Same thing if you are doing a 2-sample t-test, say between individuals that were scared or not. The path to survey data is in the class template file.
+
+# Methods write-up
+
+1. Participants - which subjects are you including and demographics. Did you exclude any for motion?
+2. Describe how the data was collected
+3. Describe how the data was preprocessed (fmriprep section posted to Canvas)
+4. Describe design of the GLM and parameters
+5. Describe any statistical tests performed
+6. Be sure to cite the papers associated with software packages that we used

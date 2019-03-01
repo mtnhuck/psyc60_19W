@@ -36,6 +36,9 @@ You also have personal space which would be accessed through the above syntax /d
 
 [Huettel Review](http://sites.sinauer.com/fmri3e/)
 
+# Class Project 
+[ClassProject](ClassProjectNotes.md)
+
 # Brain anatomy resources and refreshers
 
 [Yale MNI-Talairach with Brodmann Areas](http://sprout022.sprout.yale.edu/mni2tal/mni2tal.html)

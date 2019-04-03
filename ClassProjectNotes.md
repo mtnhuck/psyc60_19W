@@ -10,7 +10,7 @@
 5. Close terminal window
 
 # Transferring data to server
-asdf
+
 From your computer connect to the Psych 60 share link that we setup. If you are on a mac:
 
 1. Click on your desktop, Go, Connect to server
